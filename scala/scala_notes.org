@@ -13,7 +13,10 @@
     - https://github.com/tjweir/liftbook
 * Code:
   + https://github.com/languages/Scala
-    - https://github.com/jboner/akka
+    - https://github.com/jboner/akka http://akka.io (biggest Scala based project?)
     - 
+  + http://www.scala-lang.org/gsoc2011
+    - interesting: Porting Node.js to Scala (continuations, event driven IO)
 * Notes
 ** Google code search has nothing on Scala
+** What are its strengths
