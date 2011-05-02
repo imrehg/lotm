@@ -1,0 +1,15 @@
+* Tutorials
+  + http://www.artima.com/pins1ed/
+  + http://www.artima.com/scalazine/articles/steps.html
+  + http://www.readwriteweb.com/hack/2011/04/5-free-b-books-and-tutorials-o.php
+  + http://programming-scala.labs.oreilly.com/
+  + https://docs.google.com/viewer?url=http%3A%2F%2Fwww.scala-lang.org%2Fdocu%2Ffiles%2FScalaByExample.pdf
+* Connections:
+  + Lift web framework
+    - https://github.com/tjweir/liftbook
+* Code:
+  + https://github.com/languages/Scala
+    - https://github.com/jboner/akka
+    - 
+* Notes
+** Google code search has nothing on Scala
