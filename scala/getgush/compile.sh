@@ -10,7 +10,7 @@ if [ ! -f scala-library.jar ]; then
 fi
 
 
-scalac -sourcepath src -d bin src/getgush/ApplyTo.scala
+scalac -sourcepath src -d bin src/ApplyTo.scala
 
 cd bin
 jar -cfm ../getgush.jar ../MANIFEST.MF *

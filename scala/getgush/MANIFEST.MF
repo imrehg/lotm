@@ -1,2 +1,2 @@
-Main-Class: getgush.ApplyTo
+Main-Class: ApplyTo
 Class-Path: scala-library.jar
