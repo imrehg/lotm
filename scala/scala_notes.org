@@ -5,6 +5,10 @@
   + http://programming-scala.labs.oreilly.com/
   + https://docs.google.com/viewer?url=http%3A%2F%2Fwww.scala-lang.org%2Fdocu%2Ffiles%2FScalaByExample.pdf
 * Connections:
+  + Dependency management
+    - sbt
+    - maven
+    - ivy
   + Lift web framework
     - https://github.com/tjweir/liftbook
 * Code:
