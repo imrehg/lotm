@@ -8,6 +8,8 @@
   + http://stackoverflow.com/questions/tagged/scala?sort=votes&pagesize=50
     + http://stackoverflow.com/questions/1025181/hidden-features-of-scala
     + http://stackoverflow.com/questions/1332574/common-programming-mistakes-for-scala-developers-to-avoid
+  + http://www.scala-blogs.org/2008/07/application-trait-considered-harmful.html
+    Should tell this to coderloop as well? get a different example (and pull request)
 * Connections:
   + Dependency management
     - sbt
