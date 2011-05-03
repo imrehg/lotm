@@ -25,3 +25,5 @@
 * Notes
 ** Google code search has nothing on Scala
 ** What are its strengths
+* Things to try
+  + http://www.coderloop.com/puzzles/ can submit Scala 2.7.7final
