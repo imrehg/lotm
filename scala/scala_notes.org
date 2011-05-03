@@ -10,6 +10,13 @@
     + http://stackoverflow.com/questions/1332574/common-programming-mistakes-for-scala-developers-to-avoid
   + http://www.scala-blogs.org/2008/07/application-trait-considered-harmful.html
     Should tell this to coderloop as well? get a different example (and pull request)
+  + Video:
+    - Linkedin http://www.youtube.com/watch?v=J85F2C13r4Q
+    - Scala Tutorial http://www.youtube.com/watch?v=i9FRST87K_c
+    - The Scala experiment http://www.youtube.com/watch?v=01rXrI6xelE&feature=related (!)
+    - A Scalable Language http://www.youtube.com/watch?v=zqFryHC018k&feature=related
+    - Scala & Euler http://www.youtube.com/watch?v=wvD6JauveLA
+    - Scala for Business http://www.youtube.com/watch?v=ddTS4vl-SIc
 * Connections:
   + Dependency management
     - sbt
