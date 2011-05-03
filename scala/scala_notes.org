@@ -4,19 +4,24 @@
   + http://www.readwriteweb.com/hack/2011/04/5-free-b-books-and-tutorials-o.php
   + http://programming-scala.labs.oreilly.com/
   + https://docs.google.com/viewer?url=http%3A%2F%2Fwww.scala-lang.org%2Fdocu%2Ffiles%2FScalaByExample.pdf
+  + Scala wiki: http://scala.sygneca.com/
 * Connections:
   + Dependency management
     - sbt
     - maven
     - ivy
+    - Scala Bazaar
   + Lift web framework
     - https://github.com/tjweir/liftbook
+  + Futures http://scala.sygneca.com/code/futures
 * Code:
+  + http://code.google.com/hosting/search?q=label:scala
   + https://github.com/languages/Scala
     - https://github.com/jboner/akka http://akka.io (biggest Scala based project?)
     - 
   + http://www.scala-lang.org/gsoc2011
     - interesting: Porting Node.js to Scala (continuations, event driven IO)
+  + http://scala.sygneca.com/projects/start
 * Notes
 ** Google code search has nothing on Scala
 ** What are its strengths
