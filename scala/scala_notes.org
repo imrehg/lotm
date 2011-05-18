@@ -44,3 +44,7 @@
   + extractors
   + ".unapply"
   + yield <-> python's list comprehensions
+  + Singleton (PragProg p58)
+  + clojures (re: Clojure too?)
+* Notes
+  + avoid explicit return
