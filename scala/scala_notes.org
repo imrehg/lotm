@@ -12,11 +12,12 @@
     Should tell this to coderloop as well? get a different example (and pull request)
   + Video:
     - Linkedin http://www.youtube.com/watch?v=J85F2C13r4Q
-    - Scala Tutorial http://www.youtube.com/watch?v=i9FRST87K_c
+    - Scala Tutorial http://www.youtube.com/watch?v=i9FRST87K_c http://www.youtube.com/watch?v=oFaWm8e7wG0 http://www.youtube.com/watch?v=R3gh9jIIbME http://www.youtube.com/watch?v=q4Rgh5JNWf4
     - The Scala experiment http://www.youtube.com/watch?v=01rXrI6xelE&feature=related (!)
     - A Scalable Language http://www.youtube.com/watch?v=zqFryHC018k&feature=related
     - Scala & Euler http://www.youtube.com/watch?v=wvD6JauveLA
     - Scala for Business http://www.youtube.com/watch?v=ddTS4vl-SIc
+    - Scala and GWT http://www.youtube.com/watch?v=_1GjgFjX5gE
 * Connections:
   + Dependency management
     - sbt
