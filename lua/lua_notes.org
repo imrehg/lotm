@@ -1,0 +1,25 @@
+* Tutorials
+  + http://luatut.com
+  + Lua on Wikipedia: http://en.wikipedia.org/wiki/Lua_(programming_language)
+  + Lua Users wiki: http://lua-users.org/wiki/
+* Books
+  + Programming in Lua http://www.inf.puc-rio.br/~roberto/pil2/
+  + Beginning in Lua
+  + Game programming
+* Links
+  + Evolution of Lua http://www.tecgraf.puc-rio.br/~lhf/ftp/doc/hopl.pdf
+  + Hacker News search http://www.hnsearch.com/search#request/all&q=lua
+  + Google HN search http://www.hnsearch.com/search#request/all&q=lua
+* Code
+  + Github https://github.com/languages/Lua
+  + Google Code http://code.google.com/query/#q=lua  (Google Code Search has nothing)
+  + Lua on Launchpad https://launchpad.net/lua
+** Project ideas:
+   Most of the things are scripting
+   + Rockbox plug-in
+   + Damn Small Linux - GUI for command line tools
+   + Photoshop Light Room
+* Notes
+  + Why not Lua: http://julien.danjou.info/blog/2011.html#Why_not_Lua
+  + Emacs Lua mode http://lua-mode.luaforge.net/
+
