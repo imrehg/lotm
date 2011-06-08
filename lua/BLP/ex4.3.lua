@@ -1,14 +1,10 @@
 function Sprint(...)
    local Args = {...}
    local ArgCount = select("#", ...)
-   local ret = ""
    for i = 1, ArgCount do
-      if i > 1 then
-	 ret = ret .. "\t"
-      end
-      ret = ret .. tostring(Args[i])
+      Args[i] = tostring(Args[i])
    end
-   return ret
+   return table.concat(Args, "\t") .. "\n"
 end
 
 out = Sprint(nil, "Hi", nil, {}, nil)
