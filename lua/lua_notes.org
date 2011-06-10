@@ -22,4 +22,12 @@
 * Notes
   + Why not Lua: http://julien.danjou.info/blog/2011.html#Why_not_Lua
   + Emacs Lua mode http://lua-mode.luaforge.net/
-
+  + tables are good but complicated, some unexpected behaviour (e.g. with length and nil)
+  + for is quite powerful
+  + local enviroments are very powerful, together with first class functions and pcall: embedded language (namescape, scope)
+  + fast
+  + some behaviour is really not self-evident: two functions that return a list
+  + module loading: good, though making modules in so many ways can complicate things (fall back to convention instead of a single way)
+  + has lots of very powerful behaviour, but often those need more coding. With language maturity it will certainly change (as e.g. the loads of difference between 5.0 and 5.1)
+  + metamethod: almost like in Python. Why only tables? Needs much more wrapping to be usable, though that migth be the "right way" Debug.setmetatable
+  + Lots of interesting hacks to work around certain cleverness within the language (e.g. hack to always call __newindex)
